@@ -1,0 +1,5 @@
+D:\work_space\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\controller\DeptController.java
+D:\work_space\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\DeptProvider8001_Hystrix_App.java
+D:\work_space\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\service\impl\DeptServiceImpl.java
+D:\work_space\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\dao\DeptDao.java
+D:\work_space\microservicecloud\microservicecloud-provider-dept-hystrix-8001\src\main\java\com\atguigu\springcloud\service\DeptService.java

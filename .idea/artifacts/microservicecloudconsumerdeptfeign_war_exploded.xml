@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="microservicecloudconsumerdeptfeign:war exploded">
+    <output-path>$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/microservicecloud-consumer-dept-feign</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="microservicecloudconsumerdeptfeign" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/microservicecloud-consumer-dept-feign/target/microservicecloud-consumer-dept-feign/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="microservicecloudconsumerdeptfeign/web/Web" />
+    </root>
+  </artifact>
+</component>

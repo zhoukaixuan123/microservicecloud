@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="microservicecloudzuulgateway9527:war exploded">
+    <output-path>$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/microservicecloud-zuul-gateway-9527</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="microservicecloudzuulgateway9527" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/target/microservicecloud-zuul-gateway-9527/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="microservicecloudzuulgateway9527/web/Web" />
+    </root>
+  </artifact>
+</component>

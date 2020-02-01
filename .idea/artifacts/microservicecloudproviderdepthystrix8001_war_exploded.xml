@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="microservicecloudproviderdepthystrix8001:war exploded">
+    <output-path>$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/microservicecloud</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="microservicecloudproviderdepthystrix8001" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/microservicecloud-provider-dept-hystrix-8001/target/microservicecloud/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="microservicecloudproviderdepthystrix8001/web/Web" />
+    </root>
+  </artifact>
+</component>
